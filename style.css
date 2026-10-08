@@ -1,0 +1,17 @@
+/*
+Theme Name: Keso Invest
+Theme URI: https://kesoinvest.com/
+Author: KESO INVEST doo
+Description: Korporativna tema za KESO INVEST doo, Novi Sad. Bez page buildera i dodatnih plugina; brza na slabim uređajima, sa animacijama samo na jačim računarima.
+Version: 1.0.0
+Requires at least: 6.4
+Tested up to: 7.1
+Requires PHP: 8.1
+License: GPL-2.0-or-later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: keso-invest
+Domain Path: /languages
+Tags: custom-menu, featured-images, translation-ready, one-column, accessibility-ready
+
+Stilovi teme su u assets/css/ (critical.css i main.css). Ovaj fajl sadrži samo zaglavlje.
+*/

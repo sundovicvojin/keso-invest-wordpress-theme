@@ -1,0 +1,39 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "settings": {
+    "appearanceTools": false,
+    "layout": { "contentSize": "44rem", "wideSize": "80rem" },
+    "color": {
+      "defaultPalette": false,
+      "defaultGradients": false,
+      "custom": false,
+      "palette": [
+        { "slug": "ink",    "name": "Tamna (tekst)",   "color": "#0e1424" },
+        { "slug": "brand",  "name": "Plava (brend)",   "color": "#27407d" },
+        { "slug": "paper",  "name": "Papir",           "color": "#f3f2ef" },
+        { "slug": "stone",  "name": "Siva",            "color": "#6b6e78" },
+        { "slug": "accent", "name": "Akcent (pesak)",  "color": "#c2a272" }
+      ]
+    },
+    "typography": {
+      "customFontSize": false,
+      "fluid": true,
+      "fontFamilies": [
+        { "slug": "display", "name": "Bricolage Grotesque", "fontFamily": "'Bricolage Grotesque', 'Bricolage Fallback', Arial, sans-serif" },
+        { "slug": "text",    "name": "Hanken Grotesk",      "fontFamily": "'Hanken Grotesk', 'Hanken Fallback', Arial, sans-serif" }
+      ],
+      "fontSizes": [
+        { "slug": "small",  "name": "Mali",    "size": "0.875rem" },
+        { "slug": "normal", "name": "Osnovni", "size": "1.0625rem" },
+        { "slug": "large",  "name": "Veliki",  "size": "1.5rem", "fluid": { "min": "1.25rem", "max": "1.75rem" } },
+        { "slug": "xlarge", "name": "Naslov",  "size": "2.5rem", "fluid": { "min": "1.75rem", "max": "3rem" } }
+      ]
+    },
+    "spacing": { "units": ["px", "rem", "%", "vw"] }
+  },
+  "styles": {
+    "color": { "background": "#f3f2ef", "text": "#0e1424" },
+    "typography": { "fontFamily": "var(--wp--preset--font-family--text)" }
+  }
+}

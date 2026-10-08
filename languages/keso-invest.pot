@@ -1,0 +1,1074 @@
+# Keso Invest: izvorni stringovi (srpski, latinica). Generisano skriptom.
+msgid ""
+msgstr ""
+"Project-Id-Version: Keso Invest 1.0.0\n"
+"Language: sr_RS\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: 404.php
+msgid "Stranica nije pronađena"
+msgstr ""
+
+#: 404.php
+msgid "Adresa ne postoji ili je premeštena. Pređite na početnu stranu ili pretražite sajt."
+msgstr ""
+
+#: 404.php
+msgid "Početna strana"
+msgstr ""
+
+#: archive.php
+msgid "Obaveštenja i novosti iz kompanije."
+msgstr ""
+
+#: archive.php
+msgid "Prethodna"
+msgstr ""
+
+#: archive.php
+msgid "Sledeća"
+msgstr ""
+
+#: archive.php
+msgid "Navigacija kroz objave"
+msgstr ""
+
+#: archive.php
+msgid "Još nema objava"
+msgstr ""
+
+#: archive.php
+msgid "Vesti će se pojaviti ovde čim budu objavljene."
+msgstr ""
+
+#: footer.php
+msgid "Kontakt"
+msgstr ""
+
+#: footer.php
+msgid "Mapa sajta"
+msgstr ""
+
+#: footer.php
+msgid "Sajt"
+msgstr ""
+
+#: footer.php
+msgid "Luma Residence"
+msgstr ""
+
+#: footer.php
+msgid "Politika privatnosti"
+msgstr ""
+
+#: front-page.php
+msgid "Prvi sprat"
+msgstr ""
+
+#: front-page.php
+msgid "Drugi sprat"
+msgstr ""
+
+#: front-page.php
+msgid "Treći sprat"
+msgstr ""
+
+#: front-page.php
+msgid "Četvrti sprat"
+msgstr ""
+
+#: front-page.php
+msgid "Uvod"
+msgstr ""
+
+#: front-page.php
+msgid "Luma Residence: glavna fotografija ili render"
+msgstr ""
+
+#: front-page.php
+msgid "Luma Residence: 3D prikaz fasade u zalasku sunca"
+msgstr ""
+
+#: front-page.php
+msgid "Ponuda stanova"
+msgstr ""
+
+#: front-page.php
+msgid "O investitoru"
+msgstr ""
+
+#: front-page.php
+msgid "Stanovi"
+msgstr ""
+
+#: front-page.php
+msgid "Poslovni prostori"
+msgstr ""
+
+#: front-page.php
+msgid "Završetak I faze"
+msgstr ""
+
+#: front-page.php
+msgid "Kompanija u brojkama"
+msgstr ""
+
+#: front-page.php
+msgid "Više od %d godina u gradnji stambenih projekata visoke vrednosti"
+msgstr ""
+
+#: front-page.php
+msgid "KESO INVEST doo iz Novog Sada razvija stambene projekte visoke vrednosti. Od idejnog rešenja do završne faze primenjujemo iste principe: kvalitet gradnje, pažljivo birane lokacije i odgovoran odnos prema kupcima."
+msgstr ""
+
+#: front-page.php
+msgid "Fotografija: realizovani objekat ili tim"
+msgstr ""
+
+#: front-page.php
+msgid "Luma Residence: 3D prikaz balkona i fasade"
+msgstr ""
+
+#: front-page.php
+msgid "Fotografija ili render: Luma Residence"
+msgstr ""
+
+#: front-page.php
+msgid "Luma Residence: 3D prikaz kompleksa i platoa iz vazduha"
+msgstr ""
+
+#: front-page.php
+msgid "Stambeno-poslovni kompleks."
+msgstr ""
+
+#: front-page.php
+msgid "Status:"
+msgstr ""
+
+#: front-page.php
+msgid "I faza"
+msgstr ""
+
+#: front-page.php
+msgid "Završetak:"
+msgstr ""
+
+#: front-page.php
+msgid "II faza"
+msgstr ""
+
+#: front-page.php
+msgid "Spratovi"
+msgstr ""
+
+#: front-page.php
+msgid "O projektu"
+msgstr ""
+
+#: front-page.php
+msgid "Reference"
+msgstr ""
+
+#: front-page.php
+msgid "stanova"
+msgstr ""
+
+#: front-page.php
+msgid "lokala"
+msgstr ""
+
+#: front-page.php
+msgid "Ukupno"
+msgstr ""
+
+#: front-page.php
+msgid "Fotografija objekta (po adresi)"
+msgstr ""
+
+#: front-page.php
+msgid "Sve reference"
+msgstr ""
+
+#: header.php
+msgid "Pređi na sadržaj"
+msgstr ""
+
+#: header.php
+msgid "Keso Invest, početna strana"
+msgstr ""
+
+#: header.php
+msgid "Glavni meni"
+msgstr ""
+
+#: header.php
+msgid "Otvori meni"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Hvala, poruka je poslata."
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Sesija je istekla. Osvežite stranicu i pokušajte ponovo."
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Obrazac je istekao. Osvežite stranicu i pokušajte ponovo."
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Poruka je poslata prebrzo. Sačekajte trenutak i pokušajte ponovo."
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Unesite ime i prezime."
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Unesite ispravnu email adresu."
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Telefon sme da sadrži samo cifre, razmake i znakove + ( ) / - ."
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Poruka mora imati bar 10 znakova."
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Poruka je predugačka (najviše 5000 znakova)."
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Potrebna je saglasnost za obradu podataka da bismo odgovorili na upit."
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Proverite označena polja."
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Provera zaštite od spama nije uspela. Pokušajte ponovo."
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Poslali ste previše poruka. Pokušajte ponovo za sat vremena ili nas pozovite."
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Upit sa sajta: %s"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Ime i prezime"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Email"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Telefon"
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Poruka nije mogla da se pošalje. Pozovite nas ili pišite direktno na email."
+msgstr ""
+
+#: inc/contact-form.php
+msgid "Hvala, poruka je poslata. Javićemo vam se uskoro."
+msgstr ""
+
+#: inc/cpt.php
+msgid "Stan"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Dodaj stan"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Dodaj novi stan ili lokal"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Izmeni stan"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Novi stan"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Pogledaj stan"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Pretraži stanove"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Nema pronađenih stanova."
+msgstr ""
+
+#: inc/cpt.php
+msgid "Nema stanova u korpi."
+msgstr ""
+
+#: inc/cpt.php
+msgid "Svi stanovi"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Referenca"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Dodaj referencu"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Dodaj novu referencu"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Izmeni referencu"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Nova referenca"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Pogledaj referencu"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Pretraži reference"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Nema pronađenih referenci."
+msgstr ""
+
+#: inc/cpt.php
+msgid "Nema referenci u korpi."
+msgstr ""
+
+#: inc/cpt.php
+msgid "Sprat"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Svi spratovi"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Izmeni sprat"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Dodaj sprat"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Lamele"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Lamela"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Sve lamele"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Izmeni lamelu"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Dodaj lamelu"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Lamela %s"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Oznaka stana"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Tip"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Površina"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Status"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Lokal"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Adresa"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Stanova"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Lokala"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Godina"
+msgstr ""
+
+#: inc/cpt.php
+msgid "Svi statusi"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Keso Invest podešavanja"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Kontakt podaci"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Telefon 1 (glavni, prikazuje se u zaglavlju)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Telefon 2"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Email za poruke sa kontakt forme"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Ako ostane prazno, koristi se gornji email."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Facebook (pun URL)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Ikonice društvenih mreža se prikazuju samo ako je URL unet."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Instagram (pun URL)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "LinkedIn (pun URL)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Brojke na sajtu"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Podrazumevano se brojevi stanova, lokala i lokacija sabiraju iz unetih referenci. TODO: potvrdite vrednosti, jer se prethodni sajt protivreči (130+, 300+, 134 u tabeli)."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Ručno unesi brojke (umesto zbira iz referenci)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Izgrađeni stanovi (ručno)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Poslovni prostori (ručno)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Lokacije u Novom Sadu (ručno)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Godine iskustva („više od“)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Prikazuje se kao „10+“."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Projekti završeni u planiranim rokovima (%)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "TODO: vrednost sa starog sajta nije pročitana. Dok je prazno, brojka se ne prikazuje posetiocima."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Naselja koja se pominju na starom sajtu"
+msgstr ""
+
+#: inc/customizer.php
+msgid "TODO: potvrdite. Prazno polje sakriva red."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Lokacija"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Status projekta"
+msgstr ""
+
+#: inc/customizer.php
+msgid "I faza (šta obuhvata)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "I faza: planirani završetak"
+msgstr ""
+
+#: inc/customizer.php
+msgid "II faza (šta obuhvata)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "II faza: status"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Površine stanova"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Površine poslovnih prostora"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Prikaži cene stanova"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Cene se prikazuju samo ako su unete uz stan."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Početna strana i fotografije"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Naslov na početnoj"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Podnaslov (do 20 reči)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Glavna fotografija (hero)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Preporuka: 2400×1350 px. Ako ostane prazno, prikazuje se priložena slika (3D prikaz) teme."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Fotografija: O investitoru"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Slika za deljenje na mrežama (1200×630)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Galerija Luma Residence: velika slika"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Ako ostane prazno, prikazuje se priložena slika (3D prikaz)."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Galerija Luma Residence: slika 2"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Galerija Luma Residence: slika 3"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Zaštita kontakt forme"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Opciono: Cloudflare Turnstile. Ključeve dobijate besplatno u Cloudflare nalogu. Bez njih forma koristi honeypot, vremensku proveru i ograničenje učestalosti."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Turnstile site key"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Turnstile secret key"
+msgstr ""
+
+#: inc/enqueue.php
+msgid "Šaljem poruku…"
+msgstr ""
+
+#: inc/enqueue.php
+msgid "Slanje nije uspelo. Pokušajte ponovo ili nas pozovite."
+msgstr ""
+
+#: inc/enqueue.php
+msgid "Zatvori meni"
+msgstr ""
+
+#: inc/meta.php
+msgid "Slobodan"
+msgstr ""
+
+#: inc/meta.php
+msgid "Rezervisan"
+msgstr ""
+
+#: inc/meta.php
+msgid "Prodat"
+msgstr ""
+
+#: inc/meta.php
+msgid "Poslovni prostor (lokal)"
+msgstr ""
+
+#: inc/meta.php
+msgid "Površina (m²)"
+msgstr ""
+
+#: inc/meta.php
+msgid "Na primer 54.5"
+msgstr ""
+
+#: inc/meta.php
+msgid "Broj soba"
+msgstr ""
+
+#: inc/meta.php
+msgid "Na primer 2.5 (ostavite prazno za lokal)"
+msgstr ""
+
+#: inc/meta.php
+msgid "Orijentacija"
+msgstr ""
+
+#: inc/meta.php
+msgid "Na primer jug-zapad"
+msgstr ""
+
+#: inc/meta.php
+msgid "Cena (EUR, bez PDV-a ili kako želite da stoji)"
+msgstr ""
+
+#: inc/meta.php
+msgid "Prikazuje se samo ako je u Customizer-u uključeno „Prikaži cene“."
+msgstr ""
+
+#: inc/meta.php
+msgid "Šema / PDF stana"
+msgstr ""
+
+#: inc/meta.php
+msgid "Redni broj (za sortiranje)"
+msgstr ""
+
+#: inc/meta.php
+msgid "Broj stanova"
+msgstr ""
+
+#: inc/meta.php
+msgid "Broj lokala"
+msgstr ""
+
+#: inc/meta.php
+msgid "Godina završetka (opciono)"
+msgstr ""
+
+#: inc/meta.php
+msgid "Meta opis za pretraživače (do 160 znakova)"
+msgstr ""
+
+#: inc/meta.php
+msgid "Podaci o stanu"
+msgstr ""
+
+#: inc/meta.php
+msgid "Podaci o referenci"
+msgstr ""
+
+#: inc/meta.php
+msgid "SEO opis"
+msgstr ""
+
+#: inc/meta.php
+msgid "Izaberi fajl"
+msgstr ""
+
+#: inc/meta.php
+msgid "Naslov je oznaka stana (npr. G-12). Sprat i lamelu birate u poljima sa desne strane."
+msgstr ""
+
+#: inc/seo.php
+msgid "Stambeni projekti u Novom Sadu"
+msgstr ""
+
+#: inc/seo.php
+msgid "Vesti i obaveštenja kompanije Keso Invest iz Novog Sada."
+msgstr ""
+
+#: inc/seo.php
+msgid "Keso Invest doo iz Novog Sada gradi stambene projekte visoke vrednosti. Aktuelni projekat: Luma Residence."
+msgstr ""
+
+#: inc/seo.php
+msgid "Početna"
+msgstr ""
+
+#: inc/setup.php
+msgid "Meni u podnožju"
+msgstr ""
+
+#: inc/setup.php
+msgid "Prikaži podmeni: %s"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "Fotografija"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "izgrađenih stanova"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "poslovnih prostora"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "lokacija u Novom Sadu"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "godina iskustva"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "projekata završeno u planiranim rokovima"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "TODO (vidi samo administrator): unesite % projekata završenih u rokovima u Customizer-u"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "Putanja"
+msgstr ""
+
+#: index.php
+msgid "Vesti"
+msgstr ""
+
+#: page-contact.php
+msgid "Pozovite nas, pišite nam ili posetite kancelariju u Novom Sadu."
+msgstr ""
+
+#: page-luma-residence.php
+msgid "Luma Residence: fotografija ili render"
+msgstr ""
+
+#: page-luma-residence.php
+msgid "Faze gradnje"
+msgstr ""
+
+#: page-luma-residence.php
+msgid "Planirani završetak:"
+msgstr ""
+
+#: page-luma-residence.php
+msgid "Ponuda po spratovima"
+msgstr ""
+
+#: page-luma-residence.php
+msgid "%1$d slobodnih od %2$d"
+msgstr ""
+
+#: page-luma-residence.php
+msgid "Pregled uskoro"
+msgstr ""
+
+#: page-luma-residence.php
+msgid "Galerija"
+msgstr ""
+
+#: page-luma-residence.php
+msgid "Spoljašnji izgled (fotografija ili render)"
+msgstr ""
+
+#: page-luma-residence.php
+msgid "Luma Residence: 3D prikaz fasade sa ulice"
+msgstr ""
+
+#: page-luma-residence.php
+msgid "Enterijer (fotografija ili render)"
+msgstr ""
+
+#: page-luma-residence.php
+msgid "Luma Residence: 3D prikaz ugla zgrade sa poslovnim prostorima u prizemlju"
+msgstr ""
+
+#: page-luma-residence.php
+msgid "Lokacija i okruženje"
+msgstr ""
+
+#: page-luma-residence.php
+msgid "Luma Residence: 3D prikaz balkona sa strane"
+msgstr ""
+
+#: page-o-investitoru.php
+msgid "Stambeni projekti visoke vrednosti, od idejnog rešenja do završne faze."
+msgstr ""
+
+#: page-o-investitoru.php
+msgid "Kompanija"
+msgstr ""
+
+#: page-o-investitoru.php
+msgid "KESO INVEST doo iz Novog Sada razvija stambene projekte visoke vrednosti. Imamo više od %d godina iskustva."
+msgstr ""
+
+#: page-o-investitoru.php
+msgid "Od idejnog rešenja do završne faze primenjujemo iste principe: kvalitet gradnje, pažljivo birane lokacije i odgovoran odnos prema kupcima. Prodaja je transparentna, uz potpunu pravnu sigurnost, a projekti se zasnivaju na savremenim arhitektonskim konceptima, sa fokusom na komfor i dugoročnu vrednost doma."
+msgstr ""
+
+#: page-o-investitoru.php
+msgid "Brojke"
+msgstr ""
+
+#: page-reference.php
+msgid "Završeni stambeni objekti u Novom Sadu."
+msgstr ""
+
+#: page-reference.php
+msgid "Naselja: %s."
+msgstr ""
+
+#: page-reference.php
+msgid "Reference još nisu unete"
+msgstr ""
+
+#: page-sprat.php
+msgid "Pregled stanova i njihovog statusa. Luma Residence, %s."
+msgstr ""
+
+#: page-sprat.php
+msgid "Pregled statusa"
+msgstr ""
+
+#: page-sprat.php
+msgid "Slobodnih %1$d, rezervisanih %2$d, prodatih %3$d"
+msgstr ""
+
+#: page-sprat.php
+msgid "Filteri"
+msgstr ""
+
+#: page-sprat.php
+msgid "Svi"
+msgstr ""
+
+#: page-sprat.php
+msgid "Površina od (m²)"
+msgstr ""
+
+#: page-sprat.php
+msgid "Oznaka"
+msgstr ""
+
+#: page-sprat.php
+msgid "Sobe"
+msgstr ""
+
+#: page-sprat.php
+msgid "Cena"
+msgstr ""
+
+#: page-sprat.php
+msgid "Šema"
+msgstr ""
+
+#: page-sprat.php
+msgid "lokal"
+msgstr ""
+
+#: page-sprat.php
+msgid "Nijedan stan ne odgovara izabranim filterima."
+msgstr ""
+
+#: page-sprat.php
+msgid "Pregled stanova za ovaj sprat uskoro stiže"
+msgstr ""
+
+#: page-sprat.php
+msgid "Za informacije o raspoloživosti pozovite nas ili pošaljite upit."
+msgstr ""
+
+#: page-sprat.php
+msgid "Samo administrator vidi: dodajte stanove u administraciji (Stanovi → Dodaj stan) i dodelite im sprat."
+msgstr ""
+
+#: search.php
+msgid "Pretraga: %s"
+msgstr ""
+
+#: search.php
+msgid "Pretraga"
+msgstr ""
+
+#: search.php
+msgid "Navigacija kroz rezultate"
+msgstr ""
+
+#: search.php
+msgid "Nema rezultata"
+msgstr ""
+
+#: search.php
+msgid "Pokušajte sa drugim izrazom ili pregledajte glavne stranice sajta."
+msgstr ""
+
+#: searchform.php
+msgid "Traži"
+msgstr ""
+
+#: single.php
+msgid "Druge objave"
+msgstr ""
+
+#: template-parts/contact-form.php
+msgid "Pošaljite upit"
+msgstr ""
+
+#: template-parts/contact-form.php
+msgid "Telefon (opciono)"
+msgstr ""
+
+#: template-parts/contact-form.php
+msgid "Poruka"
+msgstr ""
+
+#: template-parts/contact-form.php
+msgid "Saglasan/saglasna sam da KESO INVEST doo obrađuje moje podatke radi odgovora na upit."
+msgstr ""
+
+#: template-parts/contact-form.php
+msgid "Ne popunjavajte ovo polje"
+msgstr ""
+
+#: template-parts/contact-form.php
+msgid "Pošalji poruku"
+msgstr ""
+
+#: template-parts/cta.php
+msgid "Zainteresovani ste za stan u Luma Residence?"
+msgstr ""
+
+#: template-parts/cta.php
+msgid "Pozovite nas ili pošaljite upit na email."
+msgstr ""
+
+#: template-parts/map.php
+msgid "Prikaži mapu"
+msgstr ""
+
+#: template-parts/map.php
+msgid "Otvori u Google mapama"
+msgstr ""
+
+#: template-parts/process.php
+msgid "Lokacije biramo pažljivo."
+msgstr ""
+
+#: template-parts/process.php
+msgid "Projekat"
+msgstr ""
+
+#: template-parts/process.php
+msgid "Od idejnog rešenja primenjujemo savremene arhitektonske koncepte."
+msgstr ""
+
+#: template-parts/process.php
+msgid "Gradnja"
+msgstr ""
+
+#: template-parts/process.php
+msgid "Kvalitet gradnje je isti u svakoj fazi, do završne."
+msgstr ""
+
+#: template-parts/process.php
+msgid "Predaja"
+msgstr ""
+
+#: template-parts/process.php
+msgid "Prema kupcima imamo odgovoran odnos u svakom koraku."
+msgstr ""
+
+#: template-parts/process.php
+msgid "Kako gradimo"
+msgstr ""
+
+#: template-parts/values.php
+msgid "Pouzdanost u realizaciji"
+msgstr ""
+
+#: template-parts/values.php
+msgid "Od idejnog rešenja do završne faze radimo po istim principima kvaliteta gradnje."
+msgstr ""
+
+#: template-parts/values.php
+msgid "Transparentna prodaja"
+msgstr ""
+
+#: template-parts/values.php
+msgid "Kupcima obezbeđujemo potpunu pravnu sigurnost."
+msgstr ""
+
+#: template-parts/values.php
+msgid "Savremeni koncepti"
+msgstr ""
+
+#: template-parts/values.php
+msgid "Projekte oblikujemo savremenim arhitektonskim konceptima."
+msgstr ""
+
+#: template-parts/values.php
+msgid "Dugoročna vrednost doma"
+msgstr ""
+
+#: template-parts/values.php
+msgid "Fokus je na komforu i vrednosti koja traje."
+msgstr ""
+
+#: template-parts/values.php
+msgid "Na čemu gradimo"
+msgstr ""
